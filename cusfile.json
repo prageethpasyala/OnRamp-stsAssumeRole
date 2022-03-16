@@ -1,0 +1,15 @@
+{
+    
+    "Customer1": {
+        "role": "prageeth",
+        "externalid": "pk",
+        "arn": "arn:aws:iam::621073710421:role/my-assume-role"
+        
+    },
+    "Customer2": {
+        "role": "prageeth",
+        "externalid": "pk",
+        "arn": "arn:aws:iam::621073710421:role/my-assume-role"
+        
+    }
+}
